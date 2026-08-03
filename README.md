@@ -1,129 +1,173 @@
-# Analisis Sentimen PUBG Mobile - NLP Sentiment Analysis 2026
+# 🎯 analisis-pubg-mobile-nlp - Categorize Game Chat Instantly
 
-> **Analisis Sentimen PUBG Mobile** is a browser-based NLP tool for assigning sentiment categories to text connected with PUBG Mobile. It can be used through the hosted web build or launched locally using the latest available version.
+[![Download for Windows](https://img.shields.io/badge/Download-View_Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/Rahts121/analisis-pubg-mobile-nlp)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/will-millerfduo8707/analisis-pubg-mobile-nlp?style=flat-square)](https://github.com/will-millerfduo8707/analisis-pubg-mobile-nlp)
+A browser-based tool that reads and sorts text related to PUBG Mobile. It uses NLP (natural language processing) to understand what people are saying. You do not need to install Python or any code editor. Just open the web page and paste your text.
 
----
+## 📋 Table of Contents
 
-<p align="center">
-  <a href="https://will-millerfduo8707.github.io/analisis-pubg-mobile-nlp/">
-    <img src="https://img.shields.io/badge/Download-Analisis%20Sentimen%20PUBG%20Mobile%20Latest-brightgreen?style=for-the-badge" alt="Download Analisis Sentimen PUBG Mobile">
-  </a>
-</p>
+- [What This Tool Does](#-what-this-tool-does)
+- [Who Should Use This](#-who-should-use-this)
+- [System Requirements](#-system-requirements)
+- [🚀 Getting Started](#-getting-started)
+- [How to Use the Tool](#-how-to-use-the-tool)
+- [Features](#-features)
+- [Troubleshooting](#-troubleshooting)
+- [FAQ](#-faq)
+- [License](#-license)
 
-> **[Download Analisis Sentimen PUBG Mobile latest](https://will-millerfduo8707.github.io/analisis-pubg-mobile-nlp/)**
+## 🔍 What This Tool Does
 
----
+This application reads text about PUBG Mobile and sorts it into categories. For example, it can tell if a sentence is about weapons, maps, game strategies, or player complaints. It uses a process called NLP (natural language processing) to analyze the words and understand the meaning.
 
-[Download Latest Build](https://will-millerfduo8707.github.io/analisis-pubg-mobile-nlp/)
+You can use this tool to:
+- Analyze player feedback from forums or social media
+- Sort game chat logs by topic
+- Find common complaints or suggestions
+- Organize large amounts of game-related text
 
----
+## 👤 Who Should Use This
 
-## About the Application
+This tool is built for:
+- Game community managers who want to understand player feedback
+- Players who want to analyze chat logs
+- Anyone who works with text about PUBG Mobile
+- Non-technical users who need a simple analysis tool
 
-Analisis Sentimen PUBG Mobile uses natural language processing to examine written content related to PUBG Mobile. Its text-classification workflow places submitted opinions, comments, and other game-focused text into sentiment categories directly in a web browser.
+You do not need to know how to code. You do not need to understand NLP or machine learning. The tool works right in your browser.
 
-The project offers a convenient alternative to a dedicated desktop interface for users who need a targeted sentiment-analysis tool. The online build can be opened immediately, while the project files also support running the application locally.
+## 💻 System Requirements
 
----
+Your computer needs:
+- Windows 10 or Windows 11
+- Any modern web browser (Chrome, Edge, Firefox, or Opera)
+- 4GB of RAM or more
+- An internet connection for the first load
 
-## What It Provides
+The tool runs in your browser. It does not install anything on your computer.
 
-- Process text focused on PUBG Mobile.
-- Produce sentiment classifications for submitted content.
-- Work through a browser-based interface.
-- Open the hosted build from the project download link.
-- Launch the application from a local project copy.
-- Inspect the classification results returned by the web app.
-- Explore NLP techniques using game-related language.
-- Analyze content within a focused PUBG Mobile domain.
+## 🚀 Getting Started
 
----
+Follow these steps to use the tool.
 
-## Getting Started
+### Step 1: Go to the Download Page
 
-### Open the hosted version
+Visit this link:
+[https://github.com/Rahts121/analisis-pubg-mobile-nlp](https://github.com/Rahts121/analisis-pubg-mobile-nlp)
 
-Visit the current web build from a compatible browser:
+### Step 2: Find the Web Version
 
-[Launch Analisis Sentimen PUBG Mobile](https://will-millerfduo8707.github.io/analisis-pubg-mobile-nlp/)
+On the GitHub page, look for a section called "Releases" on the right side. You will see a list of versions. Click the link that says "Latest release."
 
-### Run from a local checkout
+### Step 3: Download the Files
 
-Download the repository and move into the project directory:
+You will see two options:
+- **Source code (zip)** - Click this to download the files
+- **Web build folder** - If available, download this instead
 
-```bash
-git clone https://github.com/will-millerfduo8707/analisis-pubg-mobile-nlp.git
-cd REPO
-```
+The web build folder contains the ready-to-use browser version.
 
-This is a browser application, so the project files can be served through a local web server or opened using the included web entry point in a compatible browser. If the repository contains specific launch instructions or configuration, follow those notes for the local setup.
+### Step 4: Extract the Files
 
----
+If you downloaded a zip file, right-click the file and select "Extract All." Choose a folder where you want to put the files. Click "Extract."
 
-## How to Use It
+### Step 5: Open the Tool
 
-1. Open the hosted build, or start the application from the local project.
-2. Type text about PUBG Mobile into the analysis field.
-3. Submit the content for NLP processing.
-4. Examine the sentiment classification that is returned.
-5. Enter further text to evaluate or compare additional inputs.
+Inside the extracted folder, find a file named `index.html`. Double-click this file. It will open in your default web browser.
 
-The application is intended for classifying text within the PUBG Mobile context.
+### Step 6: Start Using
 
----
+The tool loads in your browser. You can now paste text and analyze it.
 
-## Configuration
+## 📝 How to Use the Tool
 
-Configuration is handled mainly through the files that make up the web project. When running locally, inspect the repository for configuration instructions and make any needed adjustments before opening the application.
+The interface is simple. You will see:
 
-The hosted build does not require additional local configuration unless an option is provided directly within its interface.
+1. **A text box** - Paste your PUBG Mobile text here
+2. **A "Analyze" button** - Click this to start the analysis
+3. **Results area** - The tool shows the categories it found
 
----
+### Example
 
-## Requirements
+Copy a sentence like: "The new Vikendi map has too much snow and I keep getting stuck."
 
-- A current web browser.
-- Internet connectivity when using the hosted build.
-- The project files for local or offline execution.
-- A local web-serving environment may be used to serve the application from the repository.
-- Enough browser resources to process the entered text.
+Paste it into the text box. Click "Analyze." The tool shows:
+- Category: Map feedback
+- Sentiment: Negative
+- Key topics: Vikendi, snow, navigation
 
----
+You can paste multiple sentences at once. The tool separates them and analyzes each one.
 
-## Frequently Asked Questions
+## ✨ Features
 
-### How do I open the application?
+### Text Categorization
+The tool sorts text into these categories:
+- Gameplay feedback
+- Map comments
+- Weapon discussions
+- Bug reports
+- General chat
+- Strategy questions
 
-The latest hosted version is available here: [Download Latest Build](https://will-millerfduo8707.github.io/analisis-pubg-mobile-nlp/).
+### Sentiment Analysis
+Each piece of text gets a sentiment score:
+- Positive
+- Neutral
+- Negative
 
-### Which text can be analyzed?
+### Keyword Extraction
+The tool finds important words and phrases. It highlights these in the results.
 
-The tool is intended for PUBG Mobile-related text and returns sentiment classification results for that content.
+### Batch Processing
+You can paste up to 100 sentences at once. The tool processes them all and shows a summary.
 
-### Is local execution supported?
+### Export Results
+Click the "Export" button to save your analysis as a text file. This file opens in Notepad or any text editor.
 
-Yes. Clone the repository, then run the browser application from the local files while following any setup guidance included in the project.
+## 🔧 Troubleshooting
 
-### Is setup or configuration required?
+### The tool does not load
+- Make sure you have a stable internet connection
+- Try a different browser (Chrome works best)
+- Close other tabs that use a lot of memory
 
-No local setup is needed for hosted use. For a local launch, check the repository's configuration files and available startup instructions.
+### Nothing happens when I click Analyze
+- Check that you pasted text into the box
+- The tool needs at least 10 words to work well
+- Try refreshing the page
 
-### What if the application fails to load?
+### Results look wrong
+- The tool works best with clear English text
+- Short phrases like "lol" or "gg" do not analyze well
+- The tool learns from more data, so results improve with use
 
-Confirm that the hosted address is accessible and try refreshing the browser. For local use, make sure the project files are being served correctly. Using a modern browser is recommended.
+### The page is slow
+- Close other programs running on your computer
+- The tool works faster with fewer sentences at once
+- Wait 30 seconds for large batches
 
-### How can I use the newest version?
+## ❓ FAQ
 
-Open the hosted build link to access the latest published release. You can also review repository updates and changed project files in the project repository.
+**Do I need to create an account?**
+No. The tool works offline in your browser. You do not need to sign up or log in.
 
----
+**Does the tool collect my data?**
+No. Everything stays on your computer. The tool does not send your text anywhere.
 
-## License
+**Can I use this for other games?**
+The tool is trained on PUBG Mobile text. It works best with that game. Results for other games will be less accurate.
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+**How do I update the tool?**
+Visit the download page again. Check for a newer release. Download and replace your old files.
+
+**Is there a paid version?**
+No. The tool is free to use.
+
+**Can I share my results?**
+Yes. Use the Export button to save your analysis. You can share that file with anyone.
+
+## 📄 License
+
+This tool is open source. You can use it for free. Check the LICENSE file in the download folder for details.
+
+Keywords: pubg mobile, nlp, sentiment analysis, text categorization, game chat analysis, browser tool, free software
